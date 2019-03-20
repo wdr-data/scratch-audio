@@ -1,5 +1,3 @@
-const AudioContext = require('audio-context');
-
 const log = require('./log');
 const uid = require('./uid');
 
